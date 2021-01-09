@@ -1,3 +1,3 @@
 # face_detector_snowcamera
 + 참고
-https://www.youtube.com/watch?v=tpWVyJqehG4&list=PL-xmlFOn6TUKlxlh3PIuAzHkJakFlcDvY&index=16
+빵형의 개발도상국 - 얼굴인식 스노우 카메라 만들기 https://bit.ly/3nxWrjk
